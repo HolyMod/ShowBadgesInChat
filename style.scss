@@ -1,0 +1,11 @@
+.be-container {
+    display: inline-flex;
+    vertical-align: bottom;
+
+    img {
+        $size: 20px;
+
+        width: $size;
+        height: $size;
+    }
+}

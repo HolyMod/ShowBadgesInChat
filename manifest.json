@@ -1,0 +1,7 @@
+{
+    "name": "ShowBadgesInChat",
+    "author": "Strencher",
+    "version": "1.0.0",
+    "description": "Shows you all badges of a user in chat (only if user is cached to avoid API spam)",
+    "entry": "./index.tsx"
+}
